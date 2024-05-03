@@ -9,7 +9,7 @@ setuptools.setup(
     author="NishithRaveeshKashyap", 
     author_email="nishithkp175@gmail.com", 
     packages=["random-file-generator"],
-    description='Generate "n" txt files with random data within specified size range', 
+    description='Generate random text files', 
     long_description=DESCRIPTION, 
     long_description_content_type="text/markdown",
     url="https://github.com/NishithKashyap/Generate-Random-Files", 
